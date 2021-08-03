@@ -39,10 +39,10 @@ baseurl: "/estudandodados" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    mailto: gabrieldesousafarias@gmail.com
+    gmail: gabrieldesousafarias@gmail.com
     linkedin: https://www.linkedin.com/in/gabriel-sousa/
     github: https://github.com/BielSousa/
-    medium: https://medium.com/estudando-dados
+    blog: https://medium.com/estudando-dados
 
 # Set this to true to get LaTeX math equation support
 use_math: 
